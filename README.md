@@ -5,7 +5,7 @@ Powershell function to split a file.
 
 See the comment-based help.
 
-```
+```ps1
 <#
 .SYNOPSIS
     Splits the specified file into files of the specified size.
